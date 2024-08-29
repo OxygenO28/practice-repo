@@ -1,27 +1,32 @@
-## First Name Last Name
+## Logan Morrison
 
-### Term Year 
+### Fall 2024 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- American Government
 
-- Course 2
+- Capstone 1
 
-- Course 3
+- Foundations of Data Analytics
 
-- Course 4
+- Operating System Concepts
+
+- American History Since 1877
 
 **Hobbies:**
 
+
 I am _passionate about_: 
 
-- Thing 1
+- Data Engineering
 
-- Thing 2
+- Pathfinder 2E
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/08/29
+:wq!
+
